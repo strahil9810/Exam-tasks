@@ -31,4 +31,4 @@ function sumNumber([firstNumber, secondNumber, thirdNumber]) {
         console.log("No");
     }
 }
-sumNumber([3, 5, 2])
+sumNumber([1, 10, 5])

@@ -22,4 +22,4 @@ function tiles(input) {
         console.log(`You'll need ${needPrice.toFixed(2)} lv more.`);
     }
 }
-tiles([500, 3, 2.5, 0.5, 0.7, 7.80, 100])
+tiles([3000, 3, 4, 0.33, 0.33, 4.80, 1000])
